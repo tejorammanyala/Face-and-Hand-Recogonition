@@ -1,4 +1,4 @@
-#Face and Hand recognition 
+#Hand and face recognition 
 import cv2
 import mediapipe as mp
 import numpy as np
